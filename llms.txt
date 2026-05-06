@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nehayet-mattaf2nash/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Nehayet Mattaf2nash](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
